@@ -22,7 +22,7 @@ export const products: Product[] = [
     rank: 1,
     asin: "B0DSDFV4Z2",
     imageUrl: "https://m.media-amazon.com/images/I/81HFXazgvLL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0DSDFV4Z2?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Recognition-Real-Time-Weatherproof-Effortless-Birdwatching/dp/B0DSDFV4Z2?th=1&linkCode=ll2&tag=birdcamly-20&linkId=6b4adb10d031f9fc7d1678cc8d461b25&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Overall Smart Feeder Camera",
     badge: "Editor's Choice",
     description:
@@ -44,7 +44,7 @@ export const products: Product[] = [
     rank: 2,
     asin: "B0G4MH28MY",
     imageUrl: "https://m.media-amazon.com/images/I/81pdRxD8aRL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0G4MH28MY?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/HEAPETS-Recognition-Notifications-Weatherproof-Watchers/dp/B0G4MH28MY?th=1&linkCode=ll2&tag=birdcamly-20&linkId=59c163aa333c3bfd5501419d5ea16c7f&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best 3K Solar Smart Feeder",
     badge: "Top Rated",
     description:
@@ -66,7 +66,7 @@ export const products: Product[] = [
     rank: 3,
     asin: "B0C4Y6D5BD",
     imageUrl: "https://m.media-amazon.com/images/I/71bnIiqaMAL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0C4Y6D5BD?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/HARYMOR-Identify-Species-Watching-Capture/dp/B0C4Y6D5BD?th=1&linkCode=ll2&tag=birdcamly-20&linkId=31801250778265635c40d03ff824ae3a&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Budget Solar Smart Feeder",
     badge: "Best Value",
     description:
@@ -88,7 +88,7 @@ export const products: Product[] = [
     rank: 4,
     asin: "B0DZHNNP25",
     imageUrl: "https://m.media-amazon.com/images/I/8198Fw5teQL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0DZHNNP25?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Kiwibit-BeakoTM-Subscription-Powered-Outdoors/dp/B0DZHNNP25?th=1&linkCode=ll2&tag=birdcamly-20&linkId=1408160c8a23bf23db964afa42c20562&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best No-Subscription 4K Feeder",
     description:
       "Kiwibit's no-subscription 4K solar feeder delivers live streaming without ongoing costs — ideal for birders who want premium resolution without monthly fees.",
@@ -109,7 +109,7 @@ export const products: Product[] = [
     rank: 5,
     asin: "B0B56BFH7P",
     imageUrl: "https://m.media-amazon.com/images/I/81fFG3REm4L._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0B56BFH7P?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/NETVUE-Wireless-Wildbird-Auto-Capture-Subscription/dp/B0B56BFH7P?th=1&linkCode=ll2&tag=birdcamly-20&linkId=83ad0e412dd7a0ccfb74049d8c4fbe1c&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best AI Smart Feeder with Color Night Vision",
     description:
       "NETVUE's Birdfy platform brings a large AI species database and full-color night vision to a solar-powered feeder — excellent for birders who want evening and dawn capture.",
@@ -130,7 +130,7 @@ export const products: Product[] = [
     rank: 6,
     asin: "B0DZHNDJQM",
     imageUrl: "https://m.media-amazon.com/images/I/81wEOWQX8BL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0DZHNDJQM?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Kiwibit-Identification-Livestream-Real-Time-Birdwatching/dp/B0DZHNDJQM?th=1&linkCode=ll2&tag=birdcamly-20&linkId=97bc8310ee494f32620c2380964ad98b&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Green 4K Solar Feeder",
     description:
       "Kiwibit's green-finish 4K solar feeder offers the same high-resolution live streaming as its sibling model in a garden-friendly colorway with AI species identification included.",
@@ -151,7 +151,7 @@ export const products: Product[] = [
     rank: 7,
     asin: "B0FHW2TCRX",
     imageUrl: "https://m.media-amazon.com/images/I/81ldCwPgvQL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0FHW2TCRX?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Kiwibit-BeakoTM-Feeder-Camera-Outdoors/dp/B0FHW2TCRX?th=1&linkCode=ll2&tag=birdcamly-20&linkId=d90645798d2bd5d4cce687fa281d6788&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best 4K UHD with High-Res Still Photos",
     description:
       "Kiwibit's 4K UHD camera with 8MP still photo capture makes it a strong choice for birders who want both video and high-resolution identification images from the same feeder.",
@@ -174,7 +174,7 @@ export const products: Product[] = [
     rank: 1,
     asin: "B0756BXDTX",
     imageUrl: "https://m.media-amazon.com/images/I/71ni6tWpQ0L._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0756BXDTX?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Binoculars-Waterproof-Binocular-Traveling-Sightseeing/dp/B0756BXDTX?&linkCode=ll2&tag=birdcamly-20&linkId=6faae53e5e267c89a3411da1e7387444&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Compact Binoculars Overall",
     badge: "Editor's Choice",
     description:
@@ -196,7 +196,7 @@ export const products: Product[] = [
     rank: 2,
     asin: "B0CJRTRRTG",
     imageUrl: "https://m.media-amazon.com/images/I/71EnkUZ5D-L._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0CJRTRRTG?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Binoculars-Waterproof-Watching-Football-Stargazing/dp/B0CJRTRRTG?th=1&linkCode=ll2&tag=birdcamly-20&linkId=9eb6ee1e8182c7c3ef6ce20d9cda0385&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best High-Power Binoculars",
     badge: "Top Rated",
     description:
@@ -218,7 +218,7 @@ export const products: Product[] = [
     rank: 3,
     asin: "B07Q1GHB5X",
     imageUrl: "https://m.media-amazon.com/images/I/71p-bGgJhuL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B07Q1GHB5X?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Binoculars-Compact-Watching-Theater-Concerts/dp/B07Q1GHB5X?th=1&linkCode=ll2&tag=birdcamly-20&linkId=6d37f562af00b6fa3d8dcaa4e8dc2d97&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Family-Friendly Compact Binoculars",
     description:
       "Hontry's 10x25 binoculars offer a practical balance of magnification and portability, with a design that works well for both adults and kids getting started with bird watching.",
@@ -239,7 +239,7 @@ export const products: Product[] = [
     rank: 4,
     asin: "B0DPHHG48X",
     imageUrl: "https://m.media-amazon.com/images/I/71Q3GsyIF6L._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0DPHHG48X?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Tinllaans-Binoculars-Waterproof-Lightweight-Watching/dp/B0DPHHG48X?th=1&linkCode=ll2&tag=birdcamly-20&linkId=a763e72f7827f5736fb1899d0d8eb19a&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best High-Power with Phone Adapter",
     description:
       "15x55 UHD optics combined with a smartphone adapter let you capture bird sightings directly through the binoculars — a useful feature for documentation-focused birders.",
@@ -260,7 +260,7 @@ export const products: Product[] = [
     rank: 5,
     asin: "B07GQ8J4QX",
     imageUrl: "https://m.media-amazon.com/images/I/61GE4COOkTL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B07GQ8J4QX?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/POLDR-Binoculars-Compact-Watching-Concert/dp/B07GQ8J4QX?th=1&linkCode=ll2&tag=birdcamly-20&linkId=966b485e93e7b580c219cb2b64b4c56b&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Pocket-Sized Binoculars",
     description:
       "POLDR's pocket binoculars fold to a genuinely compact size — easy to keep in a jacket pocket for spontaneous birding moments without carrying a bag.",
@@ -281,7 +281,7 @@ export const products: Product[] = [
     rank: 6,
     asin: "B0CG9XF3FR",
     imageUrl: "https://m.media-amazon.com/images/I/81Sfv7vKoCL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0CG9XF3FR?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Binoculars-Adults-Powered-Upgraded-Adapter/dp/B0CG9XF3FR?&linkCode=ll2&tag=birdcamly-20&linkId=d3d346b4c7dcc6ab7e4d0b43306ad456&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best HD with Upgraded Phone Mount",
     description:
       "Tinllaans' 15x52 model pairs HD optics with an upgraded phone adapter for improved digiscoping stability — a step up in phone mounting quality over comparable models.",
@@ -302,7 +302,7 @@ export const products: Product[] = [
     rank: 7,
     asin: "B06XT7M6P5",
     imageUrl: "https://m.media-amazon.com/images/I/71LxntLtYML._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B06XT7M6P5?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Aurosports-Folding-Binoculars-Watching-Concerts/dp/B06XT7M6P5?th=1&linkCode=ll2&tag=birdcamly-20&linkId=6dc8c37a3e0ee3626257301ae6e056b4&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Easy-Focus Compact Value",
     badge: "Best Value",
     description:
@@ -326,7 +326,7 @@ export const products: Product[] = [
     rank: 1,
     asin: "B0FN67ZL4P",
     imageUrl: "https://m.media-amazon.com/images/I/71hb2ixoLQL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0FN67ZL4P?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Squirrel-Proof-Bird-Feeder-Feeding/dp/B0FN67ZL4P?th=1&linkCode=ll2&tag=birdcamly-20&linkId=1d231dc269f7b464688c9a14a4388f5f&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Squirrel-Proof Feeder Overall",
     badge: "Editor's Choice",
     description:
@@ -348,7 +348,7 @@ export const products: Product[] = [
     rank: 2,
     asin: "B0D7GKMVJY",
     imageUrl: "https://m.media-amazon.com/images/I/71nbZj7-Z9L._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0D7GKMVJY?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/FEED-GARDEN-Outdoors-Squirrel-Chew-Proof/dp/B0D7GKMVJY?th=1&linkCode=ll2&tag=birdcamly-20&linkId=6629f0e9215249ed9841b79f365b5bce&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Metal Tube Feeder",
     badge: "Top Rated",
     description:
@@ -370,7 +370,7 @@ export const products: Product[] = [
     rank: 3,
     asin: "B0CJ96ZKG2",
     imageUrl: "https://m.media-amazon.com/images/I/71AXynyBw+L._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0CJ96ZKG2?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Squirrel-Outdoors-Protection-Cardinal-Chickadee/dp/B0CJ96ZKG2?&linkCode=ll2&tag=birdcamly-20&linkId=52c8d6aa70d23eb72716d75bba868955&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Metal Mesh Gravity Feeder",
     description:
       "Metal mesh construction with gravity-based squirrel protection delivers 3LB seed capacity and cling-style feeding access for small birds while blocking squirrel reach.",
@@ -391,7 +391,7 @@ export const products: Product[] = [
     rank: 4,
     asin: "B07JBL8P6Q",
     imageUrl: "https://m.media-amazon.com/images/I/81TDf2NTIBL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B07JBL8P6Q?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Outdoors-Squirrel-Adjustable-Chew-Proof-Resistant/dp/B07JBL8P6Q?th=1&linkCode=ll2&tag=birdcamly-20&linkId=16ccdbb08b4d84d15915bb942c77ae6e&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best 6-Port with Locking Lid",
     description:
       "A locking lid prevents squirrels from accessing the seed reservoir from above while 6 feeding ports serve multiple birds simultaneously — a practical and popular design.",
@@ -412,7 +412,7 @@ export const products: Product[] = [
     rank: 5,
     asin: "B0DSDW5XP5",
     imageUrl: "https://m.media-amazon.com/images/I/81rMiHmyW2L._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0DSDW5XP5?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Wildpark-Squirrel-Cardinals-Chickadees-Feeders-One/dp/B0DSDW5XP5?th=1&linkCode=ll2&tag=birdcamly-20&linkId=73fbe9831a2a13e8eb1a0cc97ba4de73&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Large-Capacity Metal Feeder",
     description:
       "Wildpark's 5LB metal feeder balances generous seed capacity with squirrel-resistant construction — a good choice for active yards that host cardinals and chickadees regularly.",
@@ -433,7 +433,7 @@ export const products: Product[] = [
     rank: 6,
     asin: "B000SP2JLU",
     imageUrl: "https://m.media-amazon.com/images/I/81cl8Wx9bbL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B000SP2JLU?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Perky-Pet-Squirrel-Be-Gone-Wild-Bird-Feeder/dp/B000SP2JLU?th=1&linkCode=ll2&tag=birdcamly-20&linkId=42bf09636902173d8178a575eeacbc62&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Weight-Activated Classic",
     description:
       "Perky-Pet's long-established Squirrel-Be-Gone uses weight-activated perches to close seed ports under heavier animals — a proven mechanism with a large base of satisfied users.",
@@ -454,7 +454,7 @@ export const products: Product[] = [
     rank: 7,
     asin: "B0FJ1ZQKWC",
     imageUrl: "https://m.media-amazon.com/images/I/71ebt+5jQVL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0FJ1ZQKWC?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Gbekery-Squirrel-Bilateral-Weight-Activated-Decoration/dp/B0FJ1ZQKWC?th=1&linkCode=ll2&tag=birdcamly-20&linkId=d5648aa4dc9b166a608846a320c19086&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best High-Capacity Weight-Activated Feeder",
     badge: "Best Value",
     description:
@@ -478,7 +478,7 @@ export const products: Product[] = [
     rank: 1,
     asin: "B0GX23XHRF",
     imageUrl: "https://m.media-amazon.com/images/I/81aTeyvVzPL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0GX23XHRF?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/LUJII-Hummingbird-Outdoor-Hanging-Leak-Resistant/dp/B0GX23XHRF?th=1&linkCode=ll2&tag=birdcamly-20&linkId=71927ce0e142710396064b12c7581016&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Hummingbird Feeder Camera Overall",
     badge: "Editor's Choice",
     description:
@@ -500,7 +500,7 @@ export const products: Product[] = [
     rank: 2,
     asin: "B0CTQXYWJF",
     imageUrl: "https://m.media-amazon.com/images/I/711bT3u9FtL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0CTQXYWJF?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Hummingbird-Wireless-Outdoors-Watching-Detection/dp/B0CTQXYWJF?th=1&linkCode=ll2&tag=birdcamly-20&linkId=d24c4ceeb1656d59136ef4bb0770dc81&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best AI Auto-Capture Hummingbird Cam",
     badge: "Top Rated",
     description:
@@ -522,7 +522,7 @@ export const products: Product[] = [
     rank: 3,
     asin: "B0GX1J1FBH",
     imageUrl: "https://m.media-amazon.com/images/I/81SSwfwKfTL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0GX1J1FBH?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/LUJII-Hummingbird-Outdoor-Hanging-Leak-Resistant/dp/B0GX1J1FBH?th=1&linkCode=ll2&tag=birdcamly-20&linkId=e423d1eff35d9308d0fc54411648729e&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Compact Glass Smart Hummingbird Feeder",
     description:
       "The smaller 28 fl oz Ribbon version of LUJII's glass solar feeder suits yards where space is limited, offering the same solar WiFi features in a more compact form factor.",
@@ -543,7 +543,7 @@ export const products: Product[] = [
     rank: 4,
     asin: "B0D6BRM4HK",
     imageUrl: "https://m.media-amazon.com/images/I/71B2Jt+cP9L._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0D6BRM4HK?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Bird-Feeder-Camera-Solar-Powered/dp/B0D6BRM4HK?th=1&linkCode=ll2&tag=birdcamly-20&linkId=4d184c162abd5460987b165090002e49&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best 2K AI Hummingbird Camera",
     description:
       "2K live video combined with AI hummingbird identification and solar power delivers a capable smart feeder for birders who want clear footage and species confirmation.",
@@ -564,7 +564,7 @@ export const products: Product[] = [
     rank: 5,
     asin: "B0DQXSVNZL",
     imageUrl: "https://m.media-amazon.com/images/I/61sDcjkAjVL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0DQXSVNZL?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Birdfy-Hummingbird-Feeder-Notification-Outdoors/dp/B0DQXSVNZL?th=1&linkCode=ll2&tag=birdcamly-20&linkId=38c9c4b8bbd1d7b367c1f970adda66a8&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Birdfy Hummingbird Feeder Camera",
     description:
       "Birdfy's dedicated hummingbird feeder camera brings their proven AI platform to a solar-powered nectar feeder with auto-detect recording for seamless clip capture.",
@@ -585,7 +585,7 @@ export const products: Product[] = [
     rank: 6,
     asin: "B0CTH4JSYF",
     imageUrl: "https://m.media-amazon.com/images/I/71TE3Ydy09L._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0CTH4JSYF?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Hummingbird-Solar-Powered-Identify-Protection-Outdoors/dp/B0CTH4JSYF?th=1&linkCode=ll2&tag=birdcamly-20&linkId=9a8cda220a072d2c01a3c2beef031560&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Privacy-Conscious Hummingbird Camera",
     description:
       "TT Nature emphasizes CCPA data protection alongside AI identification and solar power — a consideration for privacy-aware users in the smart feeder camera market.",
@@ -606,7 +606,7 @@ export const products: Product[] = [
     rank: 7,
     asin: "B0FDGNPWV7",
     imageUrl: "https://m.media-amazon.com/images/I/81MVskJosVL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0FDGNPWV7?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/TT-Nature-Hummingbird-Notification-Compatible/dp/B0FDGNPWV7?th=1&linkCode=ll2&tag=birdcamly-20&linkId=47594c63c05769547c110883cec3eca0&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Alexa-Compatible Hummingbird Camera",
     badge: "Best Value",
     description:
@@ -630,7 +630,7 @@ export const products: Product[] = [
     rank: 1,
     asin: "B07597XGSN",
     imageUrl: "https://m.media-amazon.com/images/I/71uiJV3lomL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B07597XGSN?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/VIVOHOME-Polyresin-Lightweight-Antique-Outdoor/dp/B07597XGSN?th=1&linkCode=ll2&tag=birdcamly-20&linkId=6ef6222587505149c3f40730d8516d3f&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Bird Bath Overall",
     badge: "Editor's Choice",
     description:
@@ -652,7 +652,7 @@ export const products: Product[] = [
     rank: 2,
     asin: "B0CZ63PY86",
     imageUrl: "https://m.media-amazon.com/images/I/81c5VJadFqL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0CZ63PY86?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Daoeny-Bird-Freestanding-Birdfeeder-Baths/dp/B0CZ63PY86?th=1&linkCode=ll2&tag=birdcamly-20&linkId=6974006b67f0846b577e5e67abcaff2b&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Metal Freestanding Bird Bath",
     badge: "Top Rated",
     description:
@@ -674,7 +674,7 @@ export const products: Product[] = [
     rank: 3,
     asin: "B01HC76V9C",
     imageUrl: "https://m.media-amazon.com/images/I/71LNKDtixqS._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B01HC76V9C?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Best-Choice-Products-Outdoor-Pedestal/dp/B01HC76V9C?th=1&linkCode=ll2&tag=birdcamly-20&linkId=759bbbe07a0f6341427a246eb360c761&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Decorative Resin Bird Bath",
     description:
       "Best Choice Products' Fleur-de-Lis design adds ornamental detail to a functional resin pedestal bird bath — a well-reviewed budget option with good garden presence.",
@@ -695,7 +695,7 @@ export const products: Product[] = [
     rank: 4,
     asin: "B07K1WY1M4",
     imageUrl: "https://m.media-amazon.com/images/I/71RYz4sgiNL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B07K1WY1M4?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/VIVOHOME-Polyresin-Antique-Outdoor-Fountain/dp/B07K1WY1M4?th=1&linkCode=ll2&tag=birdcamly-20&linkId=a3bccae358e028b329fb21481768a9fc&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Solar Fountain Bird Bath",
     description:
       "VIVOHOME adds a solar-powered fountain pump to their popular polyresin pedestal design — moving water attracts significantly more bird species than still baths.",
@@ -716,7 +716,7 @@ export const products: Product[] = [
     rank: 5,
     asin: "B0DTF88PR9",
     imageUrl: "https://m.media-amazon.com/images/I/713WSCsCrAL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0DTF88PR9?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/OUISJYER-Outdoors-Removable-Upgrades-Birdbaths/dp/B0DTF88PR9?th=1&linkCode=ll2&tag=birdcamly-20&linkId=d62629ee65c785b62c0cd7641456fea7&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Ground-Level Metal Bird Bath",
     description:
       "OUISJYER's stake-mounted metal bath brings water to ground level where many bird species prefer to drink and bathe — a removable bowl makes cleaning straightforward.",
@@ -737,7 +737,7 @@ export const products: Product[] = [
     rank: 6,
     asin: "B0787S6M9K",
     imageUrl: "https://m.media-amazon.com/images/I/81QjyyBcaxL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0787S6M9K?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Best-Choice-Products-Lighted-Birdbath/dp/B0787S6M9K?th=1&linkCode=ll2&tag=birdcamly-20&linkId=30d8f33d4d226e81b15acd1ab05a1f20&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Solar Lighted Bird Bath with Planter",
     description:
       "This multi-functional design combines a solar fountain, LED lighting, and a planter base — serving as a garden focal point by day and a lighted feature by night.",
@@ -758,7 +758,7 @@ export const products: Product[] = [
     rank: 7,
     asin: "B0DQCPDR6B",
     imageUrl: "https://m.media-amazon.com/images/I/71NjZYZeJKL._AC_SL1500_.jpg",
-    affiliateLink: "https://www.amazon.com/dp/B0DQCPDR6B?tag=YOURTAG-20",
+    affiliateLink: "https://www.amazon.com/Gtongoko-Bird-Bath-for-Outside/dp/B0DQCPDR6B?th=1&linkCode=ll2&tag=birdcamly-20&linkId=b4178888240ecfc2a403dc18966a8ae0&language=en_US&ref_=as_li_ss_tl",
     bestFor: "Best Minimalist Metal Bird Bath",
     badge: "Best Value",
     description:

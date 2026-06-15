@@ -12,7 +12,7 @@ const editorChoice = {
   bestFor: "Best Overall Smart Bird Feeder Camera",
   description:
     "A solar-powered 2K HD smart bird feeder camera with real-time AI species identification, weatherproof construction, and motion-triggered alerts — a strong choice for backyard birders who want hands-free monitoring all year.",
-  affiliateLink: "https://www.amazon.com/dp/B0DSDFV4Z2?tag=YOURTAG-20",
+  affiliateLink: "https://www.amazon.com/Recognition-Real-Time-Weatherproof-Effortless-Birdwatching/dp/B0DSDFV4Z2?th=1&linkCode=ll2&tag=birdcamly-20&linkId=6b4adb10d031f9fc7d1678cc8d461b25&language=en_US&ref_=as_li_ss_tl",
   imageUrl: "https://m.media-amazon.com/images/I/81HFXazgvLL._AC_SL1500_.jpg",
 };
 

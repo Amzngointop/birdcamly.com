@@ -4,7 +4,7 @@ export const site = {
   url: "https://birdcamly.com",
   description:
     "Independent reviews of the best smart bird feeder cameras for backyard birding enthusiasts. Expert tested, 100% honest.",
-  affiliateTag: "YOURTAG-20",
+  affiliateTag: "birdcamly-20",
   contactEmail: "contact@birdcamly.com",
   copyright: "© 2026 BirdCamly. All rights reserved.",
   meta: {
