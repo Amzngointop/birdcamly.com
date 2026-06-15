@@ -114,7 +114,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         <FAQ items={article.faqs} />
 
         {/* Related Articles */}
-        {relatedArticles.length > 0 && (
+        {/* {relatedArticles.length > 0 && (
           <section>
             <h2 className="text-2xl font-bold mb-6" style={{ color: "var(--text-primary)", fontFamily: "var(--font-playfair)" }}>
               Related Reviews
@@ -125,7 +125,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
               ))}
             </div>
           </section>
-        )}
+        )} */}
 
         <div className="flex justify-center pt-4">
           <CTAButton href="/" variant="outline">
